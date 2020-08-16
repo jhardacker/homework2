@@ -1,0 +1,186 @@
+
+
+.navbar-brand {
+	font-weight: 700;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
+  color: #1abc9c;
+  font-family:'AlegreyaSansSC'
+
+}
+
+.navbar-default {
+	border-color: transparent;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #1abc9c;
+	background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	color: #1abc9c;
+}
+
+.navbar-default .navbar-toggle {
+  border: none;
+  border-color: #fff;
+}
+
+.navbar-default .navbar-toggle:hover {
+  background: #666;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #fff;
+}
+
+/* This Is Me */
+
+#headerwrap {
+	background: url(https://i.pinimg.com/originals/60/ae/e1/60aee18e25fb6b3d315bfa3442282830.jpg) no-repeat center top;
+	margin-top: 100px;
+	padding-top: 130px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#headerwrap h1 {
+	color:#fddac7;
+	padding-top: 298px;
+  padding-bottom: 0px;
+  font-family:'Great Vibes';
+  text-align: center;
+	letter-spacing:-1px;
+	font-size: 118px;
+	font-weight: bolder;
+}
+
+#headerwrap h4 {
+  font-family: 'Metal Mania';
+  font-size: 30px;
+	font-weight: 400;
+	color: #fddac7
+}
+
+#about h1 {
+font-size: 200px;
+text-align: left;
+float: left;
+}
+
+.col-lg-7 {
+  color: #69232d;
+  font-family: Impact, Haettenschweiler, sans-serif;
+}
+
+
+@media (max-width: 768px) {
+  #headerwrap {
+    padding-top: 180px;
+  }
+}
+
+/* Work By Me Page */
+#workwrap {
+	background: url(https://i.pinimg.com/originals/82/f2/7c/82f27c36993bb5afecfa277e2f78c7ca.jpg) no-repeat center top;
+	margin-top: 100px;
+	padding-top: 130px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#workwrap h1 {
+	color:#bee6fd;
+	padding-top: 298px;
+	padding-bottom: 0px;
+	letter-spacing: -1px;
+	font-size: 118px;
+  font-weight: bolder;
+  font-family:'Great Vibes';
+}
+
+#workwrap h4 {
+  font-family: 'Metal Mania';
+  font-size: 25px;
+  font-weight: 400;
+	color: #bee6fd;
+}
+
+/* Contact Me */
+
+#contactwrap {
+	background: url(https://i.pinimg.com/originals/0b/1f/85/0b1f8517c066dd89ff8022c31bf23621.jpg) no-repeat center top;
+	margin-top: 100px;
+	padding-top: 130px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+  background-size: 100%;
+  background-size: cover;
+}
+
+#contactwrap h1 {
+  color: #33333;
+	padding-top: 298px;
+  padding-bottom: 0px;
+  font-family: 'Great Vibes';
+  text-align: center;
+	letter-spacing: -1px;
+	font-size: 118px;
+	font-weight: bolder;
+}
+
+#contactwrap h4 {
+  font-weight: 400;
+  font-size: 25px;
+  font-family: 'Metal Mania';
+	color: #oc3555
+}
+
+#contact {
+  padding: 40px 0;
+}
+
+#contact h2 {
+  font-size: 36px;
+  margin-bottom: 30px;
+}
+
+.col-lg-8 {
+  font-size: 40px;
+}
